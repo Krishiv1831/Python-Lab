@@ -39,20 +39,20 @@ The following concepts are covered in this project:
 
 ## ✅ Advantages of List
 
-•	Can store different types of data
-	•	Size can be increased or decreased easily
-	•	Elements can be accessed using index numbers
-	•	Supports many useful built-in methods
-	•	Helpful in managing large datasets
+•	Can store different types of data <br/>
+	•	Size can be increased or decreased easily <br/>
+	•	Elements can be accessed using index numbers <br/>
+	•	Supports many useful built-in methods <br/>
+	•	Helpful in managing large datasets <br/>
 
 ---
 
 ## ❌ Disadvantages of List
 
 •	Consumes more memory
-	•	Slower than arrays in some cases
-	•	Incorrect indexing can cause errors
-	•	Not suitable for fixed-size data
+	•	Slower than arrays in some cases <br/>
+	•	Incorrect indexing can cause errors <br/>
+	•	Not suitable for fixed-size data <br/>
 
 ---
 
