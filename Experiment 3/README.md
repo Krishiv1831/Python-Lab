@@ -49,7 +49,7 @@ The following concepts are covered in this project:
 
 ## ❌ Disadvantages of List
 
-•	Consumes more memory
+•	Consumes more memory <br/>
 	•	Slower than arrays in some cases <br/>
 	•	Incorrect indexing can cause errors <br/>
 	•	Not suitable for fixed-size data <br/>
