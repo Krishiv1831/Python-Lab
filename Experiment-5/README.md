@@ -204,18 +204,17 @@ Dictionary keys must be immutable
 
 ### Applications of Sets
 
-* Removing duplicate data
-* Mathematical operations
-* Membership testing
-* Data comparison
+• Removing duplicate data <br/>
+	• Mathematical operations <br/>
+	• Membership testing <br/>
+	• Data comparison <br/>
 
 ### Applications of Dictionaries
 
-*Storing student records
-*Database representation
-*JSON data handling
-*Configuration settings
-*Real-time data mapping
+• Storing student records <br/>
+	• Database representation <br/>
+	• Configuration settings <br/>
+	• Real-time data mapping <br/>
 
 ---
 
@@ -227,8 +226,9 @@ Sets and dictionaries are powerful data structures in Python. Sets are useful fo
 
 ## 📎 Extra Notes
 
-*Sets do not allow duplicate values
-*Sets do not support indexing
-*Dictionary keys must be unique
-*Dictionaries are widely used in APIs
-*Both improve program efficiency
+• Sets do not allow duplicate values <br/>
+	• Sets do not support indexing <br/>
+	• Dictionary keys must be unique <br/>
+	• Dictionaries are widely used in APIs <br/>
+
+	---
