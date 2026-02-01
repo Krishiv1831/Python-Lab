@@ -1,1 +1,240 @@
+📌 OPERATIONS ON SETS AND DICTIONARIES (Python)
 
+Name – Krishiv Sharma <br/>
+PRN – 25070123065 <br/>
+Branch – EnTC A3 <br/>
+
+Title Page
+
+Project Name: Study of Sets and Dictionaries in Python
+Purpose: Understanding Sets and Dictionaries and Their Operations
+Language: Python
+Level: Beginner
+
+🎯 Aim of the Study
+
+The aim of this project is to study the set and dictionary data types in Python and understand the various operations that can be performed on them. This helps in managing unordered data and key-value pair data efficiently.
+
+📌 Introduction
+
+Python provides built-in data types such as sets and dictionaries for storing collections of data.
+A set stores unique and unordered elements, while a dictionary stores data in the form of key-value pairs. These data types are widely used for fast data access and logical operations.
+
+📖 Study of Sets and Dictionaries (Instructions)
+
+Understand what sets and dictionaries are
+
+Learn how to create sets and dictionaries
+
+Perform basic operations on sets and dictionaries
+
+Use built-in methods and functions
+
+Observe uniqueness and key-value mapping
+
+Practice set and dictionary programs regularly
+
+✅ Advantages
+Advantages of Sets
+
+Stores only unique elements
+
+Faster membership testing
+
+Supports mathematical operations
+
+Unordered collection
+
+Efficient data handling
+
+Advantages of Dictionaries
+
+Fast data access using keys
+
+Stores data in key-value pairs
+
+Highly flexible and efficient
+
+Easy data organization
+
+Widely used in real-world applications
+
+❌ Disadvantages
+Disadvantages of Sets
+
+Unordered data
+
+Cannot access elements using index
+
+Mutable but elements must be immutable
+
+Not suitable for duplicate data
+
+Disadvantages of Dictionaries
+
+Keys must be unique
+
+Slightly complex syntax for beginners
+
+Cannot use mutable objects as keys
+
+🧮 Algorithm
+Study of Sets and Dictionaries in Python
+Algorithm for Set Operations
+
+Start
+
+Create a set with some elements
+
+Display the set
+
+Add a new element to the set
+
+Remove an element from the set
+
+Perform set operations:
+
+Union
+
+Intersection
+
+Difference
+
+Display the results of each operation
+
+Stop
+
+Algorithm for Dictionary Operations
+
+Start
+
+Create a dictionary with key-value pairs
+
+Display the dictionary
+
+Access a value using its key
+
+Add a new key-value pair
+
+Update an existing value
+
+Remove a key-value pair
+
+Display the updated dictionary
+
+Stop
+
+🔑 Key Concepts
+
+Creating sets and dictionaries
+
+Adding and removing elements
+
+Set operations (union, intersection, difference)
+
+Dictionary methods
+
+Accessing elements using keys
+
+📘 Theory (Operations on Sets and Dictionaries)
+1. Creating a Set
+
+A set is created using curly braces {}.
+Example:
+my_set = {1, 2, 3, 4}
+
+2. Creating a Dictionary
+
+A dictionary is created using {key: value} pairs.
+Example:
+my_dict = {"name": "Krishiv", "age": 18}
+
+3. Accessing Elements
+
+Set elements are accessed using loops
+
+Dictionary values are accessed using keys
+
+Example:
+my_dict["name"]
+
+4. Set Operations
+
+union() – combines elements
+
+intersection() – common elements
+
+difference() – uncommon elements
+
+add() – adds an element
+
+remove() – removes an element
+
+5. Dictionary Operations
+
+keys() – returns keys
+
+values() – returns values
+
+items() – returns key-value pairs
+
+update() – updates dictionary
+
+pop() – removes an item
+
+6. Set and Dictionary Immutability
+
+Sets are mutable but elements must be immutable
+
+Dictionary keys must be immutable
+
+🛠 Tools Used
+
+Python Interpreter
+
+IDLE
+
+VS Code
+
+PyCharm
+
+Command Prompt / Terminal
+
+📂 Applications of Sets and Dictionaries
+Applications of Sets
+
+Removing duplicate data
+
+Mathematical operations
+
+Membership testing
+
+Data comparison
+
+Applications of Dictionaries
+
+Storing student records
+
+Database representation
+
+JSON data handling
+
+Configuration settings
+
+Real-time data mapping
+
+🎯 Conclusion
+
+Sets and dictionaries are powerful data structures in Python. Sets are useful for handling unique data and performing logical operations, while dictionaries efficiently manage data using key-value pairs. Understanding these concepts is essential for effective Python programming.
+
+📎 Extra Notes
+
+Sets do not allow duplicate values
+
+Sets do not support indexing
+
+Dictionary keys must be unique
+
+Dictionaries are widely used in APIs
+
+Both improve program efficiency
