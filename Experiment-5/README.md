@@ -77,47 +77,47 @@ This project focuses on the following concepts:
 
 ### Algorithm for Set Operations
 
-Start
+1.) Start
 
-Create a set with some elements
+2.) Create a set with some elements
 
-Display the set
+3.) Display the set
 
-Add a new element to the set
+4.) Add a new element to the set
 
-Remove an element from the set
+5.) Remove an element from the set
 
-Perform set operations:
+6.) Perform set operations:
 
-Union
+7.) Union
 
-Intersection
+8.) Intersection
 
-Difference
+9.) Difference
 
-Display the results of each operation
+10.) Display the results of each operation
 
-Stop
+11.) Stop
 
 ### Algorithm for Dictionary Operations
 
-Start
+1.) Start
 
-Create a dictionary with key-value pairs
+2.) Create a dictionary with key-value pairs
 
-Display the dictionary
+3.) Display the dictionary
 
-Access a value using its key
+4.) Access a value using its key
 
-Add a new key-value pair
+5.) Add a new key-value pair
 
-Update an existing value
+6.) Update an existing value
 
-Remove a key-value pair
+7.) Remove a key-value pair
 
-Display the updated dictionary
+8.) Display the updated dictionary
 
-Stop
+9.) Stop
 
 ---
 
