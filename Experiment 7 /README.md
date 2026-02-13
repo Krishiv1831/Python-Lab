@@ -1,24 +1,26 @@
-📋 LOOPS IN PYTHON
+# 📋 LOOPS IN PYTHON
 
 Name- Krishiv Sharma <br/>
 Branch- EnTC A3 <br/>
 PRN- 25070123065 <br/>
 
-📘 Title Page
+## 📘 Title Page
 
-Project Name: Loops in Python <br/>
-Purpose: Study of Looping Statements and Control Flow <br/>
-Language: Python <br/>
+**Project Name:** Loops in Python <br/>
+**Purpose:** Study of Looping Statements and Control Flow <br/>
+**Language:** Python <br/>
 
 ---
 
-🎯 Aim of the Study
+## 🎯 Aim of the Study
 
 The aim of this project is to study different looping statements in Python such as while, for, break, continue, and conditional statements like if and nested if.
 
 This helps in understanding how to execute a block of code repeatedly and control the flow of execution efficiently.
 
-📌 Introduction
+---
+
+## 📌 Introduction
 
 Loops are used in programming to execute a block of code multiple times. Instead of writing repetitive code manually, loops allow automation of repeated tasks.
 
@@ -40,7 +42,9 @@ nested if
 
 are used to control loop execution.
 
-📖 Study of Loops (Instructions)
+---
+
+## 📖 Study of Loops (Instructions)
 
 Understand what loops are and why they are used <br/>
 
@@ -56,26 +60,30 @@ Observe output changes with different conditions <br/>
 
 Practice programs regularly for better understanding <br/>
 
-🔑 Key Concepts
+---
 
-for loop
+## 🔑 Key Concepts
 
-while loop
+for loop <br/>
 
-break statement
+while loop <br/>
 
-continue statement
+break statement <br/>
 
-if statement
+continue statement <br/>
 
-nested if
+if statement <br/>
 
-nested loops
+nested if <br/>
 
-loop control flow
+nested loops <br/>
 
-📘 Theory (Loops in Python)
-1️⃣ For Loop
+loop control flow <br/>
+
+---
+
+## 📘 Theory (Loops in Python)
+### 1️⃣ For Loop
 
 A for loop is used to iterate over a sequence (list, tuple, string, range).
 
@@ -87,7 +95,7 @@ Example:
 for i in range(1, 6):
     print(i)
 
-2️⃣ While Loop
+### 2️⃣ While Loop
 
 A while loop runs as long as the condition is true.
 
@@ -101,7 +109,7 @@ while i <= 5:
     print(i)
     i += 1
 
-3️⃣ Break Statement
+### 3️⃣ Break Statement
 
 break is used to exit the loop immediately.
 
@@ -111,7 +119,7 @@ for i in range(1, 10):
         break
     print(i)
 
-4️⃣ Continue Statement
+### 4️⃣ Continue Statement
 
 continue skips the current iteration and moves to the next iteration.
 
@@ -121,7 +129,7 @@ for i in range(1, 6):
         continue
     print(i)
 
-5️⃣ If Statement in Loop
+### 5️⃣ If Statement in Loop
 
 Conditional statements help in decision making inside loops.
 
@@ -130,7 +138,7 @@ for i in range(1, 6):
     if i % 2 == 0:
         print("Even:", i)
 
-6️⃣ Nested If Statement
+### 6️⃣ Nested If Statement
 
 An if inside another if is called nested if.
 
@@ -140,7 +148,7 @@ if num > 0:
     if num % 2 == 0:
         print("Positive Even Number")
 
-7️⃣ Nested Loops
+### 7️⃣ Nested Loops
 
 A loop inside another loop is called a nested loop.
 
@@ -149,7 +157,9 @@ for i in range(1, 4):
     for j in range(1, 4):
         print(i, j)
 
-🧠 Algorithm (Example: Print Numbers from 1 to 5 using While Loop)
+---        
+
+## 🧠 Algorithm (Example: Print Numbers from 1 to 5 using While Loop)
 
 Start
 
@@ -165,7 +175,9 @@ Repeat steps 3–5
 
 Stop when condition becomes false
 
-🧠 Algorithm (Example: Check Even Numbers Using For Loop)
+---
+
+## 🧠 Algorithm (Example: Check Even Numbers Using For Loop)
 
 Start
 
@@ -179,7 +191,9 @@ End loop
 
 Stop
 
-🔄 Flowchart (While Loop)
+---
+
+## 🔄 Flowchart (While Loop)
         ┌───────────┐
         │   Start   │
         └─────┬─────┘
@@ -209,7 +223,9 @@ Stop
                    │  Stop  │
                    └────────┘
 
-🔄 Flowchart (For Loop with Break)
+---
+
+## 🔄 Flowchart (For Loop with Break)
         Start
           │
     Initialize Loop
@@ -226,63 +242,77 @@ Stop
   │      │
  Stop   Print i
 
-✅ Advantages of Loops
+---
 
-Reduces code repetition
+## ✅ Advantages of Loops
 
-Saves time and effort
+Reduces code repetition <br/>
 
-Improves efficiency
+Saves time and effort <br/>
 
-Makes code cleaner and readable
+Improves efficiency <br/>
 
-Useful for data processing
+Makes code cleaner and readable <br/>
 
-❌ Disadvantages of Loops
+Useful for data processing <br/>
 
-Infinite loop risk
+---
 
-Hard to debug complex nested loops
+## ❌ Disadvantages of Loops
 
-Can reduce performance if not optimized
+Infinite loop risk <br/>
 
-🛠 Tools Used
+Hard to debug complex nested loops <br/>
 
-Python Interpreter
+Can reduce performance if not optimized <br/>
 
-IDLE
+---
 
-VS Code
+## 🛠 Tools Used
 
-PyCharm
+Python Interpreter<br/>
 
-Command Prompt / Terminal
+IDLE<br/>
 
-📂 Applications of Loops
+VS Code<br/>
 
-Printing patterns
+PyCharm<br/>
 
-Searching elements
+Command Prompt / Terminal<br/>
 
-Data analysis
+---
 
-Game logic
+## 📂 Applications of Loops
 
-Automation tasks
+Printing patterns<br/>
 
-Mathematical calculations
+Searching elements<br/>
 
-🎯 Conclusion
+Data analysis<br/>
+
+Game logic <br/>
+
+Automation tasks<br/>
+
+Mathematical calculations<br/>
+
+---
+
+## 🎯 Conclusion
 
 Loops are fundamental building blocks in Python programming. They allow repetition of tasks efficiently and reduce manual coding effort. Understanding for, while, break, continue, and conditional statements is essential for writing powerful and structured programs.
 
-📎 Extra Notes
+---
+
+## 📎 Extra Notes
 
 Be careful of infinite loops
 
 Always update loop variable in while loop
 
 Use break to exit early
+
+---
 
 Use continue to skip unwanted values
 
