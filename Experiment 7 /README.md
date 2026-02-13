@@ -312,10 +312,12 @@ Always update loop variable in while loop
 
 Use break to exit early
 
----
-
 Use continue to skip unwanted values
 
 Practice nested loops carefully
 
+---
+
 ✨ End of README
+
+---
