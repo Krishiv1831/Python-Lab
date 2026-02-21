@@ -16,7 +16,7 @@ PRN- 25070123065 <br/>
 
 The aim of this project is to study the Pandas library in Python and
 understand various operations performed using Series and DataFrame.
-`<br/>`{=html}This helps in learning how to store, access, modify, and
+<br/>This helps in learning how to store, access, modify, and
 analyze structured data efficiently.
 
 ------------------------------------------------------------------------
