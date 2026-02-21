@@ -169,62 +169,62 @@ Using `mean()`, `mode()`, `min()`, `max()`
 
 ## Flowchart 1: Create Series
 
-Start
-↓
-Import pandas
-↓
-Create list
-↓
-Convert to Series
-↓
-Display output
-↓
+Start\
+↓\
+Import pandas\
+↓\
+Create list\
+↓\
+Convert to Series\
+↓\
+Display output\
+↓\
 Stop
 
 ------------------------------------------------------------------------
 
 ## Flowchart 2: Create DataFrame
 
-Start
-↓
-Import pandas
-↓
-Create dictionary
-↓
-Convert to DataFrame
-↓
-Display DataFrame
-↓
+Start\
+↓\
+Import pandas\
+↓\
+Create dictionary\
+↓\
+Convert to DataFrame\
+↓\
+Display DataFrame\
+↓\
 Stop
 
 ------------------------------------------------------------------------
 
 ## Flowchart 3: Add / Modify Data
 
-Start
-↓
-Create DataFrame
-↓
-Add new column
-↓
-Modify values
-↓
-Display updated DataFrame
-↓
+Start\
+↓\
+Create DataFrame\
+↓\
+Add new column\
+↓\
+Modify values\
+↓\
+Display updated DataFrame\
+↓\
 Stop
 
 ------------------------------------------------------------------------
 
 ## Flowchart 4: Statistical Analysis
 
-Start
-↓
-Select column
-↓
-Apply mean(), mode(), min(), max()
-↓
-Display results
-↓
+Start\
+↓\
+Select column\
+↓\
+Apply mean(), mode(), min(), max()\
+↓\
+Display results\
+↓\
 Stop
 
 ------------------------------------------------------------------------
