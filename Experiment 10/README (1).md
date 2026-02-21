@@ -1,6 +1,6 @@
 # 📊 DATASETS CREATION & LOADING USING PANDAS (Python)
 
-Name- \Krishiv Sharma\
+Name- Krishiv Sharma\
 Branch- EnTC A3\
 PRN- 25070123065
 
