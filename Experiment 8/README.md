@@ -1,8 +1,8 @@
 # 📋 STUDY OF NUMPY LIBRARY (Python)
 
-Name- Tanmay Agarwal <br/>
+Name- Krishiv Sharma <br/>
 Branch- EnTC A3 <br/>
-PRN- 25070123158 <br/>
+PRN- 25070123065 <br/>
 
 ## Title Page
 
