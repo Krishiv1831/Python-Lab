@@ -37,48 +37,48 @@ Pandas provides powerful tools for data manipulation and analysis.
 
 ## 📖 Study of Dataset Operations (Instructions)
 
--   Import pandas and numpy libraries\
--   Create dataset using dictionary\
--   Convert dictionary into DataFrame\
--   Save dataset into CSV file\
--   Access specific columns and rows\
--   Perform statistical operations\
--   Insert and delete columns\
--   Load external CSV dataset\
+-   Import pandas and numpy libraries
+-   Create dataset using dictionary
+-   Convert dictionary into DataFrame
+-   Save dataset into CSV file
+-   Access specific columns and rows
+-   Perform statistical operations
+-   Insert and delete columns
+-   Load external CSV dataset
 -   Display dataset summary
 
 ------------------------------------------------------------------------
 
 ## ✅ Advantages of Using Pandas Dataset
 
--   Easy data handling\
--   Supports large datasets\
--   Built-in statistical functions\
--   Easy filtering and selection\
+-   Easy data handling
+-   Supports large datasets
+-   Built-in statistical functions
+-   Easy filtering and selection
 -   Supports multiple file formats
 
 ------------------------------------------------------------------------
 
 ## ❌ Disadvantages
 
--   Uses more memory\
--   Slower for very small operations\
--   Requires proper syntax knowledge\
+-   Uses more memory
+-   Slower for very small operations
+-   Requires proper syntax knowledge
 -   Large datasets may require optimization
 
 ------------------------------------------------------------------------
 
 ## 🔑 Key Concepts Covered
 
--   Creating DataFrame\
--   Saving dataset (.csv)\
--   Loading dataset\
--   Accessing columns\
--   Filtering rows\
--   Statistical operations (mean, median, mode)\
--   Adding new column\
--   Deleting column\
--   Dataset summary functions\
+-   Creating DataFrame
+-   Saving dataset (.csv)
+-   Loading dataset
+-   Accessing columns
+-   Filtering rows
+-   Statistical operations (mean, median, mode)
+-   Adding new column
+-   Deleting column
+-   Dataset summary functions
 -   Dataset description
 
 ------------------------------------------------------------------------
@@ -91,13 +91,13 @@ Pandas provides powerful tools for data manipulation and analysis.
 
 ## 🧠 Algorithm
 
-1.  Start\
-2.  Import pandas\
-3.  Create dictionary with student data\
-4.  Convert dictionary into DataFrame\
-5.  Save DataFrame to CSV file\
-6.  Display DataFrame\
-7.  Display shape, size and info\
+1.  Start
+2.  Import pandas
+3.  Create dictionary with student data
+4.  Convert dictionary into DataFrame
+5.  Save DataFrame to CSV file
+6.  Display DataFrame
+7.  Display shape, size and info
 8.  Stop
 
 ## 🔁 Flowchart
@@ -124,10 +124,10 @@ Stop
 
 ## 🧠 Algorithm
 
-1.  Start\
-2.  Select column using column name\
-3.  Apply condition for filtering\
-4.  Display result\
+1.  Start
+2.  Select column using column name
+3.  Apply condition for filtering
+4.  Display result
 5.  Stop
 
 ## 🔁 Flowchart
@@ -148,13 +148,13 @@ Stop
 
 ## 🧠 Algorithm
 
-1.  Start\
-2.  Select numeric column (CGPA)\
-3.  Apply mean()\
-4.  Apply median()\
-5.  Apply mode()\
-6.  Apply max()\
-7.  Display results\
+1.  Start
+2.  Select numeric column (CGPA)
+3.  Apply mean()
+4.  Apply median()
+5.  Apply mode()
+6.  Apply max()
+7.  Display results
 8.  Stop
 
 ## 🔁 Flowchart
@@ -181,11 +181,11 @@ Stop
 
 ## 🧠 Algorithm
 
-1.  Start\
-2.  Create new column with values\
-3.  Add column to DataFrame\
-4.  Drop unwanted column\
-5.  Display updated DataFrame\
+1.  Start
+2.  Create new column with values
+3.  Add column to DataFrame
+4.  Drop unwanted column
+5.  Display updated DataFrame
 6.  Stop
 
 ## 🔁 Flowchart
@@ -208,15 +208,15 @@ Stop
 
 ## 🧠 Algorithm
 
-1.  Start\
-2.  Import pandas and numpy\
-3.  Read CSV file\
-4.  Store in DataFrame\
-5.  Display dataset\
-6.  Check size and shape\
-7.  Use info()\
-8.  Use head() and tail()\
-9.  Use describe()\
+1.  Start
+2.  Import pandas and numpy
+3.  Read CSV file
+4.  Store in DataFrame
+5.  Display dataset
+6.  Check size and shape
+7.  Use info()
+8.  Use head() and tail()
+9.  Use describe()
 10. Stop
 
 ## 🔁 Flowchart
@@ -245,11 +245,11 @@ Stop
 
 ## 🛠 Tools Used
 
--   Python\
--   Pandas\
--   NumPy\
--   Jupyter Notebook\
--   VS Code\
+-   Python
+-   Pandas
+-   NumPy
+-   Jupyter Notebook
+-   VS Code
 -   GitHub
 
 ------------------------------------------------------------------------
