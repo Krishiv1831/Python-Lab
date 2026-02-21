@@ -1,8 +1,8 @@
 # 📊 DATASETS CREATION & LOADING USING PANDAS (Python)
 
-Name- Tanmay Agarwal\
+Name- \Krishiv Sharma\
 Branch- EnTC A3\
-PRN- 25070123158
+PRN- 25070123065
 
 ## Title Page
 
