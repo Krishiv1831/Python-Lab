@@ -339,16 +339,17 @@ Grouping helps analyze data across multiple categories.
 6. Stop
 
 ## 🔁 Flowchart
-Start/
-  ↓/
-Select Columns/
-  ↓/
-Apply groupby()/
-  ↓/
-Aggregate Data/
-  ↓/
-Display Result/
-  ↓/
+
+Start\
+  ↓\
+Select Columns\
+  ↓\
+Apply groupby()\
+  ↓\
+Aggregate Data\
+  ↓\
+Display Result\
+  ↓\
 Stop
 
 ------------------------------------------------------------------------------------------
@@ -365,14 +366,14 @@ Stop
 
 ## 🔁 Flowchart
 
-Start/
-  ↓/
-Select Column/
-  ↓/
-Apply sort_values()/
-  ↓/
-Display Sorted Data/
-  ↓/
+Start\
+  ↓\
+Select Column\
+  ↓\
+Apply sort_values()\
+  ↓\
+Display Sorted Data\
+  ↓\
 Stop
 
 ------------------------------------------------------------------------------------------
