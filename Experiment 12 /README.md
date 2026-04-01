@@ -24,12 +24,12 @@ Data wrangling is the process of cleaning and transforming raw data into a usabl
 
 Data wrangling includes:
 
-Handling missing or null values
-Filtering and selecting data
-Renaming columns
-Changing data types
-Removing duplicates
-Transforming and organizing data
+-  Handling missing or null values
+-  Filtering and selecting data
+-  Renaming columns
+-  Changing data types
+-  Removing duplicates
+-  Transforming and organizing data
 
 Pandas provides powerful tools to make data structured and analysis-ready.
 
